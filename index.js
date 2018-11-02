@@ -4,8 +4,7 @@ function takeANumber(line) {
   
   lengthLine++;
   
-
-  line.push(line)
+  line.push(lengthLine)
 
   return `Welcome, You are number ${line.length} in line.`
 }
