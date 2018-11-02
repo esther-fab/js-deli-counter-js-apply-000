@@ -22,8 +22,5 @@ function currentLine(line) {
     return "The line is currently empty."
   }
 
-    return l;
-  }
-
-  return `The line is currently: ${l)}`
+  return `The line is currently: ${line.length}`
 }
