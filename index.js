@@ -25,5 +25,5 @@ function currentLine(line) {
     return l;
   }
 
-  return `The line is currently: ${lineInfo.join(', ')}`
+  return `The line is currently: ${l)}`
 }
